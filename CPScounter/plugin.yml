@@ -1,0 +1,7 @@
+---
+name: CPScounter
+version: 0.0.1
+main: CPScounter\SpekledFrog\Main
+api: 4.5.2
+
+...
